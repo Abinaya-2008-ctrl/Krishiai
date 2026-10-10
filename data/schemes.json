@@ -1,0 +1,339 @@
+[
+  {
+    "scheme_id": "TN-SCHEME-001",
+    "scheme_name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "department": "Ministry of Agriculture & Farmers Welfare, GoI / TN Agriculture Dept",
+    "category": "Direct Income Support",
+    "benefit_description": "Direct income support of ₹6,000 per year delivered in 3 equal installments of ₹2,000 directly to bank accounts linked to Aadhaar.",
+    "subsidy_details": "₹6,000/year (100% grant transferred via DBT)",
+    "eligible_states": ["Tamil Nadu", "All India"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["All"],
+    "land_criteria": {
+      "max_acres": null,
+      "tenant_allowed": false,
+      "description": "All landholding farmer families having cultivable landholding in their names. Institutional landholders and high-income tax payers are excluded."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2019-02-01",
+    "application_deadline": "Ongoing (Year-round enrollment)",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-10-01",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Aadhaar Card of landholder",
+      "Land ownership patta / Chitta / Land Record document",
+      "Aadhaar-seeded Bank Account details (Bank Passbook)",
+      "Active Mobile number linked to Aadhaar"
+    ],
+    "application_steps": [
+      "Step 1: Verify Aadhaar number and land records on PM-KISAN portal.",
+      "Step 2: Fill New Farmer Registration form with District, Sub-District, Village.",
+      "Step 3: Enter Survey/Khata/Khasra number and upload Land Record copy.",
+      "Step 4: Local Village Administrative Officer (VAO) / Assistant Agricultural Officer (AAO) approves physical verification."
+    ],
+    "official_info_url": "https://pmkisan.gov.in/",
+    "official_apply_url": "https://pmkisan.gov.in/RegistrationFormNew.aspx",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Official portal verified active. National e-Governance standards compliant."
+  },
+  {
+    "scheme_id": "TN-SCHEME-002",
+    "scheme_name": "Tamil Nadu Micro Irrigation Scheme (PMKSY - Per Drop More Crop)",
+    "department": "Department of Horticulture & Plantation Crops, Government of Tamil Nadu",
+    "category": "Irrigation Infrastructure Subsidy",
+    "benefit_description": "High subsidy for installation of Drip and Sprinkler irrigation systems to conserve water and improve yield.",
+    "subsidy_details": "100% Subsidy for Small & Marginal Farmers (up to 5 acres); 75% Subsidy for Other Farmers.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["Sugarcane", "Banana", "Coconut", "Cotton", "Turmeric", "Tomato", "Chili", "Maize", "Groundnut", "Mango", "Tapioca"],
+    "land_criteria": {
+      "max_acres": 12.5,
+      "tenant_allowed": true,
+      "description": "Farmers having assured water source (well or borewell). Leaseholders with minimum 10-year registered lease deed are also eligible."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2026-04-01",
+    "application_deadline": "2027-03-31",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-09-15",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Patta / Chitta and FMB sketch",
+      "Adangal / Crop cultivation certificate from VAO",
+      "Soil and Water Test Report from recognized laboratory",
+      "Aadhaar Card and Passport Photo",
+      "Electricity service connection receipt or well certificate"
+    ],
+    "application_steps": [
+      "Step 1: Register on TN Agriculture Agrisnet / eSevai portal.",
+      "Step 2: Submit land patta and water source proof to the Block Assistant Director of Horticulture.",
+      "Step 3: Joint field verification by Agricultural Engineering Dept and Horticulture officer.",
+      "Step 4: Work order issued for approved micro-irrigation firm."
+    ],
+    "official_info_url": "https://tnhorticulture.tn.gov.in/horti/pmksy",
+    "official_apply_url": "https://www.tnagrisnet.tn.gov.in/esevai/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Official portal verified on tnagrisnet.tn.gov.in. 100% subsidy active for small/marginal categories."
+  },
+  {
+    "scheme_id": "TN-SCHEME-003",
+    "scheme_name": "Kalaignar All Village Integrated Agriculture Development Programme (KAVIADP)",
+    "department": "Agriculture & Farmers Welfare Department, Government of Tamil Nadu",
+    "category": "Integrated Village Farm Inputs",
+    "benefit_description": "Comprehensive village agricultural upliftment: free distribution of 2 coconut seedlings per household, vegetable seed minikits, dryland development, and farm machinery access.",
+    "subsidy_details": "100% Free inputs and subsidized machinery (up to ₹15,000 per eligible marginal farmer).",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["Paddy (Rice)", "Millets (Ragi/Bajra)", "Coconut", "Groundnut", "Black Gram (Urad)", "Green Gram (Moong)", "Vegetables"],
+    "land_criteria": {
+      "max_acres": 5.0,
+      "tenant_allowed": true,
+      "description": "Priority to marginal and small farmers in notified village panchayats. Fallow land cultivators given priority."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": true
+    },
+    "application_start_date": "2026-05-01",
+    "application_deadline": "2027-02-28",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-08-30",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Chitta / Adangal or Village Panchayat resident proof",
+      "Bank Account Passbook",
+      "Ration Card / Smart Family Card"
+    ],
+    "application_steps": [
+      "Step 1: Contact Assistant Agricultural Officer (AAO) at Uzhavar Santhai or Block Agriculture Extension Centre (AEC).",
+      "Step 2: Submit family ration card and land record for seedling kit allocation.",
+      "Step 3: Collect sanctioned minikits and seeds at AEC."
+    ],
+    "official_info_url": "https://www.tnagrisnet.tn.gov.in/home/schemes/",
+    "official_apply_url": "https://www.tnagrisnet.tn.gov.in/esevai/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "TN Agrisnet flagship scheme. Active in selected village clusters per G.O. guidelines."
+  },
+  {
+    "scheme_id": "TN-SCHEME-004",
+    "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY) - Tamil Nadu Crop Insurance",
+    "department": "Agriculture & Farmers Welfare Department, Government of Tamil Nadu & Central GoI",
+    "category": "Crop Insurance",
+    "benefit_description": "Comprehensive insurance cover against crop failure due to drought, unseasonal rainfall, floods, pests, and natural perils.",
+    "subsidy_details": "Farmer pays minimal premium: 1.5% for Rabi, 2% for Kharif, 5% for Annual Horticultural Crops. Balance 95-98% subsidized by TN Govt & Central Govt.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["Paddy (Rice)", "Cotton", "Groundnut", "Maize", "Sugarcane", "Banana", "Turmeric", "Tomato", "Chili"],
+    "land_criteria": {
+      "max_acres": null,
+      "tenant_allowed": true,
+      "description": "All farmers growing notified crops in notified areas including sharecroppers and tenant farmers with tenancy agreement or VAO certificate."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2026-08-01",
+    "application_deadline": "2026-11-30",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-09-01",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Adangal / Sowing certificate issued by Village Administrative Officer (VAO)",
+      "Land Ownership document (Patta / Chitta) or Tenancy agreement",
+      "Aadhaar Card",
+      "Bank Passbook copy showing IFSC code"
+    ],
+    "application_steps": [
+      "Step 1: Obtain Adangal from local VAO or e-Sevai centre.",
+      "Step 2: Visit Primary Agricultural Cooperative Credit Society (PACCS), Commercial Bank, or Common Service Centre (CSC).",
+      "Step 3: Pay farmer premium share before district cut-off date (e.g. Nov 15/30 for Samba Paddy).",
+      "Step 4: Receive PMFBY acknowledgement receipt with policy number."
+    ],
+    "official_info_url": "https://pmfby.gov.in/",
+    "official_apply_url": "https://pmfby.gov.in/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Official Central insurance portal PMFBY and TN Agrisnet tie-up. Seasonal deadlines apply strictly."
+  },
+  {
+    "scheme_id": "TN-SCHEME-005",
+    "scheme_name": "Agricultural Mechanization Programme (Sub-Mission on Agricultural Mechanization)",
+    "department": "Agricultural Engineering Department (AED), Government of Tamil Nadu",
+    "category": "Farm Equipment Subsidy",
+    "benefit_description": "Capital subsidy on procurement of tractors, power tillers, rotavators, paddy transplanters, laser land levelers, and power sprayers.",
+    "subsidy_details": "50% subsidy for Small, Marginal, SC/ST, and Women Farmers; 40% subsidy for other general category farmers.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["All"],
+    "land_criteria": {
+      "max_acres": null,
+      "tenant_allowed": false,
+      "description": "Cultivating landowners. Priority quota for SC/ST, marginal (< 2.5 acres), and women farmers."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2026-05-15",
+    "application_deadline": "2027-01-31",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-09-10",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Patta / Chitta copy",
+      "Aadhaar Card",
+      "Small / Marginal Farmer Certificate issued by Revenue Dept (for higher subsidy)",
+      "Bank Account details",
+      "Quotation from empanelled agricultural machinery manufacturer"
+    ],
+    "application_steps": [
+      "Step 1: Register on Direct Benefit Transfer in Agricultural Mechanization (DBT-AgriMachinery) portal.",
+      "Step 2: Choose equipment model and empanelled dealer.",
+      "Step 3: Field verification and permit sanction by Executive Engineer (AED).",
+      "Step 4: Purchase equipment and subsidy credited directly to bank account after inspection."
+    ],
+    "official_info_url": "https://aed.tn.gov.in/",
+    "official_apply_url": "https://agrimachinery.nic.in/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "National portal agrimachinery.nic.in with TN AED state administration."
+  },
+  {
+    "scheme_id": "TN-SCHEME-006",
+    "scheme_name": "Free Power Supply for Agricultural Pumpsets Scheme",
+    "department": "Tamil Nadu Generation and Distribution Corporation (TANGEDCO)",
+    "category": "Energy & Electricity Relief",
+    "benefit_description": "100% subsidized electricity for registered agricultural pump sets (open wells, tube wells, borewells) to minimize farm operating expenses.",
+    "subsidy_details": "100% electricity tariff subsidy funded by the Government of Tamil Nadu.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["All"],
+    "land_criteria": {
+      "max_acres": null,
+      "tenant_allowed": false,
+      "description": "Farmers having agricultural land with an existing agricultural well/borewell seeking new connection or maintaining existing connection under agricultural tariff."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "Ongoing",
+    "application_deadline": "Open Under Seniority & Tatkal Schemes",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-08-15",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Proof of ownership of land (Patta / Chitta)",
+      "VAO certificate of existence of open well or borewell",
+      "Consent letter from co-owners if joint patta",
+      "Aadhaar Card copy"
+    ],
+    "application_steps": [
+      "Step 1: Submit Form 1 application to local TANGEDCO Section Office.",
+      "Step 2: Field inspection by Junior Engineer / Assistant Engineer.",
+      "Step 3: Registration in agricultural priority / normal seniority waitlist or Tatkal scheme.",
+      "Step 4: Sanction and service connection release."
+    ],
+    "official_info_url": "https://www.tangedco.gov.in/",
+    "official_apply_url": "https://www.tnebnet.org/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Official TANGEDCO portal. Regular free supply quota sanctioned per state policy."
+  },
+  {
+    "scheme_id": "TN-SCHEME-007",
+    "scheme_name": "Kuruvai Cultivation Special Assistance Package",
+    "department": "Department of Agriculture & Farmers Welfare, Government of Tamil Nadu",
+    "category": "Seasonal Crop Package",
+    "benefit_description": "Distribution of certified paddy seeds, chemical fertilizers (DAP & Urea), and weed management inputs at 100% subsidy for delta paddy cultivators.",
+    "subsidy_details": "100% subsidy for certified paddy seed (up to 45 kg/ha) and fertilizer kit per acre.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": [
+      "Thanjavur", "Tiruvarur", "Nagapattinam", "Mayiladuthurai",
+      "Cuddalore", "Tiruchirappalli", "Pudukkottai", "Ariyalur"
+    ],
+    "eligible_crops": ["Paddy (Rice)"],
+    "land_criteria": {
+      "max_acres": 5.0,
+      "tenant_allowed": true,
+      "description": "Cauvery Delta farmers taking up Kuruvai paddy cultivation with borewell/canal water."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2026-05-20",
+    "application_deadline": "2026-07-31",
+    "current_status": "DEADLINE PASSED",
+    "status_verified_date": "2026-08-01",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Patta / Chitta or VAO Certificate of Kuruvai cultivation",
+      "Aadhaar Card",
+      "Uzhavar e-Sevai Registration slip"
+    ],
+    "application_steps": [
+      "Step 1: Register Kuruvai cultivation plan at local Agriculture Extension Centre.",
+      "Step 2: Verification of canal/borewell readiness by AAO.",
+      "Step 3: Collection of subsidized seeds and fertilizers from Primary Agricultural Cooperative Societies."
+    ],
+    "official_info_url": "https://www.tnagrisnet.tn.gov.in/home/schemes/",
+    "official_apply_url": "https://www.tnagrisnet.tn.gov.in/",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Kuruvai seasonal window closed in July; Samba season schemes are now in effect."
+  },
+  {
+    "scheme_id": "TN-SCHEME-008",
+    "scheme_name": "Tamil Nadu Organic Farming Promotion Scheme",
+    "department": "Department of Sustainable Agriculture, Government of Tamil Nadu",
+    "category": "Sustainable Agriculture Grant",
+    "benefit_description": "Financial assistance, certification support, and free biological inputs for farmers transitioning towards certified natural and organic farming.",
+    "subsidy_details": "₹10,000 per hectare incentive across 3 years + 100% covered certification fees.",
+    "eligible_states": ["Tamil Nadu"],
+    "eligible_districts": ["All"],
+    "eligible_crops": ["All"],
+    "land_criteria": {
+      "max_acres": 10.0,
+      "tenant_allowed": true,
+      "description": "Farmers willing to form Farmer Producer Groups or clusters (minimum 20-50 hectares cluster) or individual farm registration."
+    },
+    "category_criteria": {
+      "women_only": false,
+      "small_marginal_only": false
+    },
+    "application_start_date": "2026-06-01",
+    "application_deadline": "2027-01-15",
+    "current_status": "OPEN NOW",
+    "status_verified_date": "2026-09-01",
+    "data_type": "VERIFIED_OFFICIAL",
+    "required_documents": [
+      "Aadhaar Card",
+      "Land Chitta / Adangal",
+      "Farmer undertaking for non-chemical inputs",
+      "Bank Account details"
+    ],
+    "application_steps": [
+      "Step 1: Apply through Tamil Nadu Organic Certification Department (TNOCD).",
+      "Step 2: Conversion inspection by organic certification inspectors.",
+      "Step 3: Sanction of cluster incentive."
+    ],
+    "official_info_url": "https://tnocd.net/",
+    "official_apply_url": "https://tnocd.net/registration",
+    "is_apply_url_verified": true,
+    "last_checked_timestamp": "2026-10-10T12:00:00Z",
+    "verification_notes": "Verified official TNOCD state department portal."
+  }
+]
